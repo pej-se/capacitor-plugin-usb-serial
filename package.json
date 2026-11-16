@@ -67,6 +67,10 @@
   "peerDependencies": {
     "@capacitor/core": "^8.0.0"
   },
+  "resolutions": {
+    "lodash": "^4.18.1",
+    "lodash-es": "^4.18.1"
+  },
   "prettier": "@ionic/prettier-config",
   "swiftlint": "@ionic/swiftlint-config",
   "eslintConfig": {
